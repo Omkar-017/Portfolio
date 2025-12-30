@@ -1,0 +1,11 @@
+Tailwindcss-CLI
+
+1.Past the cmd on working folder:
+npm install tailwindcss @tailwindcss/cli
+
+2.create src folder and create index.html input.css and output.css file
+
+3.import the cmd in input.css file : @import "tailwindcss";
+
+4.execute the cmd : cli folder
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
