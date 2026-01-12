@@ -8,7 +8,3 @@
 ```bash
 npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
 ```
-
-##
-<h1 align="center">Demo</h1>
-<video src="src/images/Demo.mp4" controls></video> 
